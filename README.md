@@ -8,4 +8,4 @@ https://developer.microsoft.com/en-gb/microsoft-edge/webview2/
 Open the Eaglercraft.exe file to run Eaglercraft app.
 
 Latest Installer: https://github.com/Eaglercrafting/Eaglercraft-App-Launcher/releases/download/v10.0.1/EaglercraftSource.zip
-Latest SourceCode: 
+Latest SourceCode: https://github.com/Eaglercrafting/Eaglercraft-App-Launcher/releases/download/v1.0.03/Eaglercraft.zip
